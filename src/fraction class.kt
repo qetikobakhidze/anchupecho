@@ -1,0 +1,10 @@
+fun main(){
+
+
+}
+
+class Fraction {
+
+
+
+}
